@@ -2,19 +2,7 @@
 
 exports[`App component renders App 1`] = `
 <Fragment>
-  <ColorDisplay
-    backgroundColor="black"
-  />
-  <ColorPicker
-    colors={
-      Array [
-        "red",
-        "green",
-        "black",
-        "yellow",
-      ]
-    }
-    selectColor={[Function]}
-  />
+  <ColorContainer />
+  <RandomColor />
 </Fragment>
 `;
