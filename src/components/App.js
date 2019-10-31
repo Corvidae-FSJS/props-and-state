@@ -1,5 +1,4 @@
 import React from 'react';
-
 import ColorContainer from './containers/ColorContainer';
 import RandomColor from './containers/RandomColor';
 
