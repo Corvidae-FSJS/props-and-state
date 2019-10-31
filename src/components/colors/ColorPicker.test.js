@@ -14,7 +14,7 @@ describe('ColorPicker component', () => {
       'indigo', 
       'violet', 
       'black'
-    ]} />);
+    ]} selectColor={() => {}} />);
     expect(wrapper).toMatchSnapshot();
   });
 }); 

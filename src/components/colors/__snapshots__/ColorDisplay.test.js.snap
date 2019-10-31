@@ -4,7 +4,7 @@ exports[`ColorDisplay component Matches snapshot 1`] = `
 <div
   style={
     Object {
-      "backgroundColor": undefined,
+      "backgroundColor": "red",
       "height": "100px",
       "width": "100px",
     }
