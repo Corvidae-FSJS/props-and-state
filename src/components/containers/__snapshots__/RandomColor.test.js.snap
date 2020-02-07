@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`RandomColor component Renders RandomColor 1`] = `
+<div
+  style={
+    Object {
+      "background": "black",
+      "height": "100px",
+      "width": "100px",
+    }
+  }
+/>
+`;
